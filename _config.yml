@@ -1,0 +1,22 @@
+# Site settings
+title:Krishna Heroor personal website
+description: A website about my all projects and profiles
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Hey! I'm Krishna Heroor
+user_description: Hi, I am a Engineer graduate from  Dr. Ambedkar Institute Of Technology Bangalore. I am actively seeking full-time in Machine Learning, Data Science opportunity.
+user_title: Machine Learning Practitioner
+email: heroorkrishna@gmail.com
+twitter_username: krishnaheroor
+github_username:  heroorkrishna
+facebook_username: Krishnaheroor 
+linkedin_username: Krishnaheroor 
+
+
+# Google-analytics
+google-analytics:
+  id: "UA-120517137-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
